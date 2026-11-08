@@ -1,0 +1,19 @@
+{
+    "name": "jtech/dumper",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Jtech\\Dumper\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "jauharimtikhan",
+            "email": "jauhar.imtikhan@gmail.com"
+        }
+    ],
+    "require": {}
+}
